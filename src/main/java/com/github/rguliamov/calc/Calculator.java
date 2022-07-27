@@ -1,5 +1,8 @@
 package com.github.rguliamov.calc;
 
+import com.github.rguliamov.calc.containers.Tuple2;
+import com.github.rguliamov.calc.enums.Operators;
+
 import java.util.List;
 
 /**

@@ -1,5 +1,6 @@
 package com.github.rguliamov.calc;
 
+import com.github.rguliamov.calc.enums.Operators;
 import org.junit.jupiter.api.Test;
 import java.util.List;
 

@@ -1,4 +1,7 @@
-package com.github.rguliamov.calc;
+package com.github.rguliamov.calc.util;
+
+import com.github.rguliamov.calc.enums.Operators;
+
 /**
  * @author Guliamov Rustam
  */

@@ -1,10 +1,15 @@
 package com.github.rguliamov.calc;
 
+import com.github.rguliamov.calc.containers.Tuple2;
+import com.github.rguliamov.calc.containers.Tuple3;
+import com.github.rguliamov.calc.enums.Notation;
+import com.github.rguliamov.calc.enums.Operators;
+
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static com.github.rguliamov.calc.CommonUtils.*;
+import static com.github.rguliamov.calc.util.CommonUtils.*;
 
 /**
  * parses a string into an operator and arguments

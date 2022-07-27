@@ -1,4 +1,4 @@
-package com.github.rguliamov.calc;
+package com.github.rguliamov.calc.containers;
 
 /**
  * @author Guliamov Rustam

@@ -1,4 +1,4 @@
-package com.github.rguliamov.calc;
+package com.github.rguliamov.calc.enums;
 
 /**
  * contains various notations supported by this app
